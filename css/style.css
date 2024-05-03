@@ -1,0 +1,21 @@
+.ms_bg_body{
+    background-color: #0E0E0E;
+}
+.ms_h1{
+    font-size: 55px;
+    color: #808B99;
+    font-weight: 600;
+}
+.ms_container{
+    background-color: #001632;
+    max-width: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    min-height: 70%;
+}
+.ms_validazione_message{
+    background-color: #CFF4FC;
+    color: #6E999B;
+}
